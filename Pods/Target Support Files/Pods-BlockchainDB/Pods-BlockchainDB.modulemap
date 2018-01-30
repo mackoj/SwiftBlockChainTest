@@ -1,0 +1,6 @@
+framework module Pods_BlockchainDB {
+  umbrella header "Pods-BlockchainDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
